@@ -1,0 +1,30 @@
+--------------------------------------------------------
+Install Guide
+--------------------------------------------------------
+
+First, run the following command in /var/www/paymenter:
+composer require vonage/client
+
+Then, you upload every file in AddonFiles to /var/www/paymenter
+
+
+--------------------------------------------------------
+Important
+--------------------------------------------------------
+
+We use Vonage for selling phone numbers. 
+This does work with Vonage Paid accounts, but does NOT work with Vonage Trial accounts.
+If you want to connect Vonage Phone Numbers to a SIP Trunk, and show the SIP Trunk details as SIP Details, please contact me on Discord by joining my support Discord: https://discord.gg/TM64CaY2MJ 
+
+--------------------------------------------------------
+Support
+--------------------------------------------------------
+
+Discord: https://discord.gg/TM64CaY2MJ
+
+--------------------------------------------------------
+Author / Credits
+--------------------------------------------------------
+
+Author: Geoorloofd
+Thanks to Paymenter for making this possible!

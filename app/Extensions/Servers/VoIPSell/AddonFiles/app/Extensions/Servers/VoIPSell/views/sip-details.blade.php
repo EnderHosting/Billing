@@ -1,0 +1,1 @@
+<p>Phone Number: +{{ $userConfig['number'] }}</p>
